@@ -174,15 +174,6 @@
       ],
       "NAT": [
          {
-            "Name": "Alice",
-            "ProfilePicture": "alice.png",
-            "Discord": "70788202327179264",
-            "GitHub": null,
-            "Twitch": "alicexiv",
-            "Twitter": "alicexiv",
-            "YouTube": "UC7tQXKPzGjRUuHrTNP_KgLQ"
-         },
-         {
             "Name": "Amanatsu",
             "ProfilePicture": "amanatsu.png",
             "Discord": "145838716877930496",
@@ -209,6 +200,15 @@
             "Twitter": "Uninstaller3",
             "YouTube": null
          },
+         {
+            "Name": "voltage",
+            "ProfilePicture": "voltage.png",
+            "Discord": "842675585477246986",
+            "GitHub": null,
+            "Twitch": "voltageo",
+            "Twitter": "Voltage4536",
+            "YouTube": "UCZkkPihpJqKcqSeSwUCNBOg"
+         }, 
          {
             "Name": "yabje",
             "ProfilePicture": "yabje.png",
@@ -237,15 +237,6 @@
             "Twitch": "aithke",
             "Twitter": "Aithke15_04",
             "YouTube": null
-         },
-         {
-            "Name": "Alice",
-            "ProfilePicture": "alice.png",
-            "Discord": "70788202327179264",
-            "GitHub": null,
-            "Twitch": "alicexiv",
-            "Twitter": "alicexiv",
-            "YouTube": "UC7tQXKPzGjRUuHrTNP_KgLQ"
          },
          {
             "Name": "Amanatsu",
@@ -783,15 +774,6 @@
             "Twitch": "andreahikono",
             "Twitter": null,
             "YouTube": "UCGDtvG_pGdJZyXSgoLMat8g"
-         },
-         {
-            "Name": "BigOlDumplin",
-            "ProfilePicture": "bigoldumplin.png",
-            "Discord": "579018678280912906",
-            "GitHub": null,
-            "Twitch": "bigoldumplin",
-            "Twitter": null,
-            "YouTube": null
          },
          {
             "Name": "Bitz",
