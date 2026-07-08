@@ -339,7 +339,7 @@
          },
          {
             "Name": "Komeijisan051",
-            "ProfilePicture": "Komeiji.png",
+            "ProfilePicture": "komeiji.png",
             "Discord": "682402385829691393",
             "GitHub": null,
             "Twitch": "komeiji_san051",
@@ -794,8 +794,26 @@
             "YouTube": "UCBUYiHKQpEa12CKu-Gx3U9g"
          },
          {
+            "Name": "Floffy",
+            "ProfilePicture": "floffy.jpg",
+            "Discord": "460975115765678090",
+            "GitHub": "Floffy7089",
+            "Twitch": "floffy7089",
+            "Twitter": "floffy7089",
+            "YouTube": "UCWTAgqaNBzWyaj1_h1kbg2w"
+         },
+         {
+            "Name": "Gio",
+            "ProfilePicture": "gio.png",
+            "Discord": "703982260059111494",
+            "GitHub": null,
+            "Twitch": "giovannipanda",
+            "Twitter": null,
+            "YouTube": "UCmgX6aC7Br4s8fCkUCe91Wg"
+         },
+         {
             "Name": "HondorusOptix",
-            "ProfilePicture": "HondorusOptix.png",
+            "ProfilePicture": "hondorusoptix.png",
             "Discord": "589583533341671443",
             "GitHub": null,
             "Twitch": null,
@@ -846,6 +864,15 @@
             "Twitch": "raccoonvr",
             "Twitter": "VrRaccoon",
             "YouTube": "UC72V9yWF-3ZtZz-WbXoeZAQ"
+         },
+         {
+            "Name": "Rex",
+            "ProfilePicture": "rex.png",
+            "Discord": "1193225195931045898",
+            "GitHub": null,
+            "Twitch": "itsrexagain",
+            "Twitter": "ItsRexAgain",
+            "YouTube": "UCPO_IKN6dIK7HUkSUhjw6yA"
          },
          {
             "Name": "Spoekle",
