@@ -437,15 +437,6 @@
             "YouTube": "UCJteEKhPaaCVBe08q3f368A"
          },
          {
-            "Name": "Slayx",
-            "ProfilePicture": "slayx.png",
-            "Discord": "404182315611455503",
-            "GitHub": null,
-            "Twitch": "slayx0",
-            "Twitter": "Slayx0",
-            "YouTube": null
-         },
-         {
             "Name": "ThySpoon",
             "ProfilePicture": "thyspoon.png",
             "Discord": "247521066753327126",
@@ -547,15 +538,6 @@
             "YouTube": null
          },
          {
-            "Name": "aquaflee",
-            "ProfilePicture": "aqua.png",
-            "Discord": "386558897655250947",
-            "GitHub": null,
-            "Twitch": "aquaflee",
-            "Twitter": null,
-            "YouTube": null
-         },
-         {
             "Name": "Bantalope",
             "ProfilePicture": "bantalope.png",
             "Discord": "260502929604214784",
@@ -608,15 +590,6 @@
             "Twitch": "fvrwvrd",
             "Twitter": null,
             "YouTube": "UCXS1rZI4XUb273xoE8iLCmA"
-         },
-         {
-            "Name": "Helloiamdaan",
-            "ProfilePicture": "daan.png",
-            "Discord": "581578919116013572",
-            "GitHub": null,
-            "Twitch": "helloiamdaan",
-            "Twitter": null,
-            "YouTube": null
          },
          {
             "Name": "Joshabi",
@@ -734,6 +707,15 @@
             "Twitch": "tseska_",
             "Twitter": null,
             "YouTube": null
+         },
+         {
+            "Name": "voltage",
+            "ProfilePicture": "voltage.png",
+            "Discord": "842675585477246986",
+            "GitHub": null,
+            "Twitch": "voltageo",
+            "Twitter": "Voltage4536",
+            "YouTube": "UCZkkPihpJqKcqSeSwUCNBOg"
          },
          {
             "Name": "yabje",
